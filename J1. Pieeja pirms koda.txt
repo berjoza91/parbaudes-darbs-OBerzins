@@ -1,0 +1,4 @@
+J1. Pieeja pirms koda
+
+Es no sākuma pārliecinātos, ka katra rinda ir pierakstīta un kurā vietā atrodas datums, pēctam pārliecinātos, ka failā ir 1200 rindas un vai nav tukšas rindas, vai bojātas, vai nederīgs teksts. Pēctam es atrastu rindas, kurās ir kļūdas. No katras kļūdas nolasītu laiku un noteiktu datumu. Pēctam pārbaudītu cik kļūdas katrā stundā ir reģistrētas. Atrastu stundu kurā kļūdu skaits ir vislielākais. Pēc tā es atkārtoti pārbaudītu aprēķinus un sniegtu atbildi parādot stundu un tajā reģistrēto kļūdu skaitu
+
