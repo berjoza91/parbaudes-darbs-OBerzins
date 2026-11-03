@@ -1,0 +1,3 @@
+J2. objekti, nevis teksts
+
+Powershell atļauj tieši peikļūt procesa atmiņas lietojuma vērtībai, kā skaitlim, tāpēc var tos procesus vienkārši atlasīt procesus, kas izmanto vairāk par 200MB, neveicot teksta sadalīšanu vai pārveidošanu
